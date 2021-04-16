@@ -1,0 +1,12 @@
+ Volume in drive C is windows
+ Volume Serial Number is 5AEC-4F4A
+
+ Directory of C:\Users\Nandhini Ramasamy\Desktop\MyGit
+
+04/16/2021  11:34 PM    <DIR>          .
+04/16/2021  11:34 PM    <DIR>          ..
+03/13/2021  11:31 PM               120 index.html
+04/16/2021  09:16 PM                25 sample.java
+04/16/2021  11:34 PM                 0 sample.txt
+               3 File(s)            145 bytes
+               2 Dir(s)  28,527,943,680 bytes free
